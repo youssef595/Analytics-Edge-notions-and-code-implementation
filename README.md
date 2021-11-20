@@ -1,5 +1,5 @@
 # Analytics-Edge-notions-and-code-implementation
-![General ML picture]()
+![General ML picture](https://github.com/youssef595/Analytics-Edge-notions-and-code-implementation/blob/main/newplot.png)
 
 ## Resources :
 ### Linear Regression :
