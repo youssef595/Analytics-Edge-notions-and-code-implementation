@@ -37,4 +37,4 @@
 * [Connectivity Based clustering : Hierarchical clustering (How does it work)](https://youtu.be/7xHsRkOdVwo)
 * [Density Based clustering : DBSCAN (DBSCAN vs Kmeans)](https://towardsdatascience.com/k-means-vs-dbscan-clustering-49f8e627de27)
 * [Distribution Based clustering : Gaussian mixture models (base steps)](https://youtu.be/q71Niz856KE)
-* [Kmeans vs Hierarchical vs DBSCAN vs GMMM summary](https://towardsdatascience.com/k-means-dbscan-gmm-agglomerative-clustering-mastering-the-popular-models-in-a-segmentation-c891a3818e29)
+* [Kmeans vs Hierarchical vs DBSCAN vs GMM summary](https://towardsdatascience.com/k-means-dbscan-gmm-agglomerative-clustering-mastering-the-popular-models-in-a-segmentation-c891a3818e29)
