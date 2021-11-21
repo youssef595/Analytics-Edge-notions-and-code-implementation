@@ -23,4 +23,7 @@
 * [Ensembling Methods (bagging vs boosting)](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
 * [Random Forest explained](https://youtu.be/3CC4N4z3GJc?list=PLBq2sVJiEBvA9rPo3IEQsJNI4IJbn81tB)
 * [Adaboost explained](https://www.youtube.com/watch?v=LsK-xG1cLYA&list=PLBq2sVJiEBvA9rPo3IEQsJNI4IJbn81tB&index=8)
-* 
+* [Gradient Boost Part1](https://youtu.be/3CC4N4z3GJc?list=PLBq2sVJiEBvA9rPo3IEQsJNI4IJbn81tB)
+* [Gradient Boost Part2](https://www.youtube.com/watch?v=2xudPOBz-vs)
+* [Gradient Boost Part3](https://www.youtube.com/watch?v=jxuNLH5dXCs&t=5s)
+* [Gradient Boost Part4](https://www.youtube.com/watch?v=StWY5QWMXCw)
