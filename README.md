@@ -1,5 +1,5 @@
 # Analytics-Edge-notions-and-code-implementation
-This a repository is for everyone aiming to design a good learning path in analytics and data science concepts. I will make sure to feed the repository with efficient code implementations and tips. Also, other sections will be added in the resources such as text analytics.
+This is a repository for everyone aiming to design a good learning path in analytics and data science concepts. I will make sure to feed the repository with efficient code implementations and tips. Also, other sections will be added in the resources such as text analytics.
 
 ![General ML picture](https://github.com/youssef595/Analytics-Edge-notions-and-code-implementation/blob/main/newplot.png)
 
