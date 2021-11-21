@@ -27,3 +27,14 @@
 * [Gradient Boost Part2](https://www.youtube.com/watch?v=2xudPOBz-vs)
 * [Gradient Boost Part3](https://www.youtube.com/watch?v=jxuNLH5dXCs&t=5s)
 * [Gradient Boost Part4](https://www.youtube.com/watch?v=StWY5QWMXCw)
+* [Exterme Gradient Boost(XGBOOST) Part1](https://www.youtube.com/watch?v=OtD8wVaFm6E&t=1259s)
+* [Exterme Gradient Boost(XGBOOST) Part2](https://www.youtube.com/watch?v=8b1JEDvenQU)
+* [Exterme Gradient Boost(XGBOOST) Part3](https://www.youtube.com/watch?v=ZVFeW798-2I)
+* [Exterme Gradient Boost(XGBOOST) Part4](https://www.youtube.com/watch?v=oRrKeUCEbq8)
+
+### Clustering:
+* [Centroid Based clustering : Kmeans (Methods and drawbacks)](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)
+* [Connectivity Based clustering : Hierarchical clustering (How does it work)](https://youtu.be/7xHsRkOdVwo)
+* [Density Based clustering : DBSCAN (DBSCAN vs Kmeans)](https://towardsdatascience.com/k-means-vs-dbscan-clustering-49f8e627de27)
+* [Distribution Based clustering : Gaussian mixture models (base steps)](https://youtu.be/q71Niz856KE)
+* [Kmeans vs Hierarchical vs DBSCAN vs GMMM summary](https://towardsdatascience.com/k-means-dbscan-gmm-agglomerative-clustering-mastering-the-popular-models-in-a-segmentation-c891a3818e29)
